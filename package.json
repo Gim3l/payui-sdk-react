@@ -54,5 +54,6 @@
       "direflow-scripts/direflow-jest.config.js"
     ]
   },
-  "config-overrides-path": "direflow-webpack.js"
+  "config-overrides-path": "direflow-webpack.js",
+  "homepage" : "."
 }
